@@ -12,7 +12,7 @@ export default function About() {
         </h1>
 
         <p className="text-lg text-gray-600">
-          Samsona Services Pvt Ltd provides telecom infrastructure,
+          Samsona Services Pvt. Ltd. provides telecom infrastructure,
           workforce staffing, branding consultancy and digital
           display solutions for enterprise clients across India.
         </p>
